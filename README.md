@@ -50,10 +50,19 @@ Os portfólios são avaliados com diferentes métodos de otimização, como:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/gianmalfate/multifactor-portfolio-optimization.git
-2. Instale as dependências necessárias:
+2. Certifique-se de que todos os arquivos necessários estão na mesma pasta do notebook. Estes arquivos são:
+- `Dados-Base.xlsx`
+- `Dados-Comp-IBRX.xlsx`
+- `Dados-Fechamento.xlsx`
+- `Dados-Momentum-12.xlsx`
+- `Dados-PVP.xlsx`
+- `Dados-ROIC-A2.xlsx`
+- `Dados-Val-Merc.xlsx`
+- `Dados-Vol-12.xlsx`
+3. Instale as dependências necessárias:
     ```bash
     pip install numpy pandas matplotlib riskfolio-lib==6.1.1
-3. Execute o notebook:
+4. Execute o notebook:
     ```bash
     jupyter notebook Trabalho_2_Portfolios_Multifatores.ipynb
 
