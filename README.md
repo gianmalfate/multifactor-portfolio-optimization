@@ -52,12 +52,12 @@ Os portfólios são avaliados com diferentes métodos de otimização, como:
    git clone https://github.com/gianmalfate/multifactor-portfolio-optimization.git
 2. Instale as dependências necessárias:
     ```bash
-    pip install numpy pandas matplotlib riskfolio-lib
+    pip install numpy pandas matplotlib riskfolio-lib==6.1.1
 3. Execute o notebook:
     ```bash
     jupyter notebook Trabalho_2_Portfolios_Multifatores.ipynb
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - Python
 - Bibliotecas:
     - numpy
@@ -65,7 +65,7 @@ Os portfólios são avaliados com diferentes métodos de otimização, como:
     - matplotlib
     - Riskfolio-Lib
 
-📧 Contato
+## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato:
 
